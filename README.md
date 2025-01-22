@@ -18,7 +18,6 @@
 ![슬라이드3](https://github.com/Mr-Forger/GP/assets/46594567/e590a47c-4038-42b7-875c-6ec7b2c498d2)
 ![슬라이드4](https://github.com/Mr-Forger/GP/assets/46594567/cc21ef67-a962-419a-ac3a-e363134ca486)
 ![슬라이드5](https://github.com/Mr-Forger/GP/assets/46594567/1661c2cd-6fa0-4dad-b113-58bda3f88dd4)
-![슬라이드6](https://github.com/Mr-Forger/GP/assets/46594567/ff0545b3-52ab-4fd2-861b-4f32240fd1fe)
 ![슬라이드7](https://github.com/Mr-Forger/GP/assets/46594567/75c3453a-e124-4d16-80ba-a4a9b765c53e)
 ![슬라이드8](https://github.com/Mr-Forger/GP/assets/46594567/998e51a2-9f67-4f9e-898e-5daec52fd058)
 ![슬라이드9](https://github.com/Mr-Forger/GP/assets/46594567/3ec5c561-7bdd-445d-a118-e32b81d334b5)
